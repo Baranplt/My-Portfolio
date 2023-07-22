@@ -8,8 +8,8 @@ import Projects from './pages/Projects';
 import Skils from './pages/Skils';
 function App() {
   return (
-    <div className="App bg-slate-700 h-full  ">
-      <div className=" container  mx-auto h-full flex flex-col justify-between">
+    <div className="App  h-auto lg:h-full  ">
+      <div className=" container  h-full flex flex-col justify-between   " >
         <Header />
 
         <Routes>

@@ -2,6 +2,7 @@
 body{
   font-family: 'Roboto Slab', serif;
 height: 100%;
+@apply bg-slate-700
 }
   .active{
     @apply text-slate-950

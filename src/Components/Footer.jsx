@@ -5,7 +5,7 @@ import { MdBento } from 'react-icons/md'
 import { BiLogoInstagramAlt } from 'react-icons/bi'
 function Footer() {
     return (
-        <div className='flex flex-col lg:flex-row text-xl  lg:mt-[13px] lg:pb-2 mb10 justify-between lg:items-start items-center'>
+        <div className='flex flex-col  lg:flex-row text-xl   lg:mt-[13px] lg:pb-2 mb-10 lg:justify-between lg:items-start items-center'>
             <div className="social flex text-text-color  mb-10 ">
                 <a href="https://twitter.com/llMahfuz" target='_blank' className="twitter mr-5 hover:text-slate-900 transition-all duration-500 cursor-pointer">
                     <BsTwitter size={30} />

@@ -3,7 +3,7 @@ import me from '../img/me.jpg'
 import { NavLink } from 'react-router-dom'
 function Header() {
     return (
-        <div className='pt-5 lg:flex justify-between items-center'>
+        <div className='pt-5 flex flex-col lg:flex-row  lg:justify-between lg:items-center'>
             <div className="user lg:w-4/12 flex justify-center lg:justify-start items-center mb-10 lg:mb-0">
                 <div className="img w-28 h-28 rounded-full mr-5  p-1 border-text-color border-2">
                     <img className='w-full h-full max-w-full max-h-full rounded-full' src={me} alt="" />
@@ -13,8 +13,8 @@ function Header() {
                     Polat
                 </div>
             </div>
-            <div className="bar w-4/12 text-xl text-text-color">
-                <ul className='flex ml-10 lg:ml-0'>
+            <div className="bar lg:w-4/12 text-xl  text-text-color">
+                <ul className='flex '>
                     <li className='mx-5 hover:text-slate-900'>
                         <NavLink to="/">
                             Hakkımda

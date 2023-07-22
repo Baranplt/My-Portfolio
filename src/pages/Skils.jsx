@@ -2,7 +2,7 @@ import React from 'react'
 
 function Skils() {
     return (
-        <div className='flex overflow-x-auto py-10'>
+        <div className='flex flex-wrap items-stretch justify-center py-10 '>
             <div className="item border p-5 flex flex-col items-center rounded-3xl  mx-2 mt-5">
                 <div className="title text-text-color font-bold text-center text-3xl mb-5">
                     Javascript
@@ -53,7 +53,7 @@ function Skils() {
                     BootStrap
                 </div>
                 <div className="img w-56">
-                    <img className='w-full h-full max-w-full max-h-full' src="https://assets.stickpng.com/images/62a76468bd73a4af5c5d4fb7.png" alt="" />
+                    <img className='w-full h-full max-w-full max-h-full' src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png" alt="" />
 
                 </div>
             </div>
