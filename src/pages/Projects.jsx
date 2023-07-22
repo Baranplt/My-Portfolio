@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Bshopper from '../img/BshopperPNG.PNG'
 import camio from '../img/camio.PNG'
 import task from '../img/task.PNG'
