@@ -22,7 +22,7 @@ function Projects() {
                         <p className='text-text-color text-center text-3xl md:text-xl '>
                             React.js ve TailwindCSS kullanarak geliştirdiğim B-Shopper sitesi
                         </p>
-                        <a href='https://github.com/Baranplt/React-Shoping-Project-Responsive' rel="noopener" target='_blank' className=' border text-white py-2 px-4 mt-5  hover:scale-110'>Projeye git</a >
+                        <a href='https://github.com/Baranplt/React-Shoping-Project-Responsive' rel="noopener noreferrer" target='_blank' className=' border text-white py-2 px-4 mt-5  hover:scale-110'>Projeye git</a >
                     </div>
 
                 </div>
@@ -35,7 +35,7 @@ function Projects() {
                         <p className='text-text-color text-center text-3xl md:text-xl '>
                             React.js ve TailwindCSS kullanarak geliştirdiğim Camio  sitesi
                         </p>
-                        <a href='https://github.com/Baranplt/react-shopping-project' rel="noopener" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
+                        <a href='https://github.com/Baranplt/react-shopping-project' rel="noopener noreferrer" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
                     </div>
 
                 </div>
@@ -48,7 +48,7 @@ function Projects() {
                         <p className='text-text-color text-center text-3xl md:text-xl '>
                             React.js ve TailwindCSS kullanarak geliştirdiğim Tasks uygulaması
                         </p>
-                        <a href='https://github.com/Baranplt/React-Example---Task-crud-app' rel="noopener" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
+                        <a href='https://github.com/Baranplt/React-Example---Task-crud-app' rel="noopener noreferrer" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
                     </div>
 
                 </div>
@@ -61,7 +61,7 @@ function Projects() {
                         <p className='text-text-color text-center text-3xl md:text-xl '>
                             React.js ve TailwindCSS kullanarak geliştirdiğim Barkod uygulaması
                         </p>
-                        <a href='https://github.com/Baranplt/supermarket-barcod-system' rel="noopener" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
+                        <a href='https://github.com/Baranplt/supermarket-barcod-system' rel="noopener noreferrer" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
                     </div>
 
                 </div>
@@ -74,7 +74,7 @@ function Projects() {
                         <p className='text-text-color text-center text-3xl md:text-xl '>
                             React.js ve TailwindCSS kullanarak geliştirdiğim Galeri uygulaması
                         </p>
-                        <a href='https://github.com/Baranplt/React-Api-Example---Gallery-app' rel="noopener" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
+                        <a href='https://github.com/Baranplt/React-Api-Example---Gallery-app' rel="noopener noreferrer" target='_blank' className=' border text-white py-2 px-4 mt-5 hover:scale-110'>Projeye git</a >
                     </div>
 
                 </div>
